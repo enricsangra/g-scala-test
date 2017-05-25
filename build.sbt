@@ -1,4 +1,4 @@
-name := "techtest"
+name := "g-scala-test"
 
 version := "1.0"
 
