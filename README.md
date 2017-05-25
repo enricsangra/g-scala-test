@@ -20,7 +20,7 @@ Maybe too much abstraction for the problem itself.
 ## expession generator
 Converts a bag of positive integers and a target number into an expression that evaluates with the target as result using each number in the bag at most once. It uses +, * and - as operators in the expressions and every intermediate result must be greater than 0.
 
-This can be executed using the main method. It will require a list of integers separated by spaces and a target. Follow the guide in the console.
+This can be executed using the main method. It will require a list of integers separated by spaces and a target. Follow the guide in the console using *sbt run*.
 
 It only returns one of the possible results or none if it doesn't exist.
 
