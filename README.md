@@ -32,6 +32,6 @@ Worst case would be all combinations of numbers checked which tends to n^2 being
 
 The execution could be potentially done in two steps with a AST generator and an interpreter to check if the value is right. This allows more flexibility but it needs more time to execute.
 
-Analyse a way to stop the generation of combinations once a match to the target is found.
+Analyse a way to stop the generation of combinations once a match to the target is found. Streams would be an option.
 
 
